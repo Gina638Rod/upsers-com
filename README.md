@@ -23,7 +23,7 @@ The "upsers com" project is a modern, responsive expense tracking system inspire
 ## 👨‍💻 Author
 **Name:** your-username  
 **Email:** your-email@example.com  
-**Website:** 
+**Website:** [upsers com](https://www.upsers.us.com)
 **Bio:** A full-stack developer with a passion for clean architecture and user-centric design. With over 8 years of experience building scalable web applications, they specialize in React and modern JavaScript. Always ready to guide others and improve team dynamics, this coder thrives in collaborative environments.
 
 ## 🚀 Getting Started
